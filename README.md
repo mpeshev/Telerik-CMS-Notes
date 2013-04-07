@@ -37,6 +37,7 @@ https://github.com/mpeshev/Telerik-CMS-Notes/blob/master/homework-mario_peshev_p
 * Bulgarian WordPress User Group - http://wpbgug.org/
 * HTML5 Template to WordPress Theme video from Telerik Academy '12 - http://www.youtube.com/watch?v=zfLCKsgCO0I
 * ThemeForest - http://themeforest.net/
+* Oracle HR schema for MySQL - http://www.php-example.com/2010/07/php-mysql-sample-database-script-create.html
 
 ### P.S.
 
